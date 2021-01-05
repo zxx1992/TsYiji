@@ -1,0 +1,20 @@
+{
+  "name": "tsyiji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxx1992/TsYiji.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxx1992/TsYiji/issues"
+  },
+  "homepage": "https://github.com/zxx1992/TsYiji#readme"
+}
